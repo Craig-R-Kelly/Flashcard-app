@@ -1,14 +1,30 @@
 # Flashcard-o-matic
 
-
 This app is a memory drill tool for students.  It allows the adding, viewing, editing, deleting, and saving of any number of subject-themed card groups ("decks") and cards within them.  A deck must have at least three cards to be studied.   
-<br>It uses an API to create, read, update, and delete records stored by the API.  <br>
-This was a capstone project for the Thinkful Engineering course, to demonstrate use of React, especially rendering, managing state, calling external APIs, and using React Router, with emphasis on state management and definition of routes with URLs.
-<br>
-## Links
 
-* [Alas, not yet a link, just a placeholder!](https://placeholder)
+## Context
 
+Although such an app is useful _per se_, the project also demonstrates knowledge and application of:
+* creating routes, including nested routes, using React Router
+* using hooks like `useState()`, `useParams()`, and `useHistory()`
+* state management
+* conditional rendering within a shared form component
+
+## Tools
+
+* JavaScript with React and React Router libraries
+* package installation via NPM
+* testing from command line with Jest
+* debugging via console output and VS Code debugger
+
+## Link
+
+* Link goes here once GitHub Page is up and running
+
+## To do
+
+* repair navbar in `Edit Card` view.
+* get GitHub page, and add link to this `README`
 
 ## Screenshots
 
@@ -129,9 +145,3 @@ Having confirmed that choice, Home now displays as when we began the README scre
 
 ![Screenshot 22](screenshots/screenshot22.png)
 
-## Technology
-
-### Built with:
-* React and React Router
-    * Created with [create-react-app](https://github.com/facebook/create-react-app)
-    * Confirmation modal via [react-modal](https://github.com/reactjs/react-modal)
