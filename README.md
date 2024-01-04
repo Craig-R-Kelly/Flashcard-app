@@ -17,14 +17,15 @@ Although such an app is useful _per se_, the project also demonstrates knowledge
 * testing from command line with Jest
 * debugging via console output and VS Code debugger
 
+<!--
 ## Link
 
-* Link goes here once GitHub Page is up and running
+* Here it is running at [GitHub pages](https://craig-r-kelly.github.io/Flashcard-app/).
+-->
 
 ## To do
 
 * repair navbar in `Edit Card` view.
-* get GitHub page, and add link to this `README`
 
 ## Screenshots
 
